@@ -13,7 +13,13 @@
     "games"
   ],
   "screenshots": [],
-  "icons": [],
+  "icons": [
+    {
+      "src": "Newsvine_512x512.webp",
+      "sizes": "512x512",
+      "type": "webp"
+    }
+  ],
   "shortcuts": [
     {
       "name": "122",
