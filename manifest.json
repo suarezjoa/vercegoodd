@@ -15,9 +15,9 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "Newsvine_512x512.webp",
+      "src": "data-configuration.PNG",
       "sizes": "512x512",
-      "type": "webp"
+      "type": "PNG"
     }
   ],
   "shortcuts": [
