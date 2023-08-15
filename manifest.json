@@ -9,9 +9,19 @@
   "short_name": "Par",
   "start_url": "/",
   "theme_color": "#ffffff",
-  "categories": [],
+  "categories": [
+    "games"
+  ],
   "screenshots": [],
   "icons": [],
-  "shortcuts": [],
-  "id": "151"
+  "shortcuts": [
+    {
+      "name": "122",
+      "url": "212121",
+      "description": "212121"
+    }
+  ],
+  "id": "151",
+  "iarc_rating_id": "1511",
+  "prefer_related_applications": true
 }
