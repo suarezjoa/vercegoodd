@@ -15,9 +15,8 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "data-configuration.PNG",
-      "sizes": "512x512",
-      "type": "PNG"
+      "src": "windows11/SmallTile.scale-100.png",
+      "sizes": "71x71"
     }
   ],
   "shortcuts": [
