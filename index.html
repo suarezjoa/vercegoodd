@@ -13,5 +13,22 @@
           navigator.serviceWorker.register('sw.js')
         }
       </script>
+
+    <video id="videoElement" autoplay></video>
+  
+    <script>
+      // Acceder al elemento de video
+      const videoElement = document.getElementById('videoElement');
+  
+      // Solicitar permiso para acceder a la cámara
+      navigator.mediaDevices.getUserMedia({ video: true })
+        .then(function(stream) {
+          // Asignar el flujo de medios al elemento de video
+          videoElement.srcObject = stream;
+        })
+        .catch(function(error) {
+          console.error('Error al acceder a la cámara:', error);
+        });
+    </script>
 </body>
 </html>
