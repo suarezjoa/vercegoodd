@@ -15,7 +15,7 @@
   "screenshots": [],
   "icons": [
     {
-      "src": "IMAGEN/android-launchericon-512-512.png",
+      "src": "IMAGEN/android/android-launchericon-512-512.png",
       "sizes": "512x512"
     }
   ],
