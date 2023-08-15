@@ -1,0 +1,17 @@
+{
+  "background_color": "#ff0000",
+  "description": "nashee good",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "paradigma",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Par",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "categories": [],
+  "screenshots": [],
+  "icons": [],
+  "shortcuts": [],
+  "id": "151"
+}
